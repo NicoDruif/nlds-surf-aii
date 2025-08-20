@@ -1601,7 +1601,7 @@
         "highlight-inverse": {
           "bg-document": {
             "$type": "color",
-            "$value": "#2A230F"
+            "$value": "{aii.kleuren.grijs.800}"
           },
           "bg-subtle": {
             "$type": "color",
@@ -1625,7 +1625,7 @@
           },
           "border-default": {
             "$type": "color",
-            "$value": "#ECC609"
+            "$value": "{aii.kleuren.geel.700}"
           },
           "border-hover": {
             "$type": "color",
@@ -1637,7 +1637,7 @@
           },
           "color-default": {
             "$type": "color",
-            "$value": "#FFFFFF"
+            "$value": "{aii.kleuren.grijs.wit}"
           },
           "color-hover": {
             "$type": "color",
