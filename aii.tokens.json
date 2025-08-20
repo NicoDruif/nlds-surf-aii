@@ -1,5 +1,22 @@
 {
-  "brand": {},
+  "brand": {
+    "aii": {
+      "kleuren": {
+        "geel": {
+          "100": {
+            "$type": "color",
+            "$value": "#FCF5D4",
+            "$description": "Yellow-Light"
+          },
+          "700": {
+            "$type": "color",
+            "$value": "#F4D74B",
+            "$description": "Yellow"
+          }
+        }
+      }
+    }
+  },
   "common": {
     "basis": {
       "text": {
