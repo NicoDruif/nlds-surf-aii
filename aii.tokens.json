@@ -473,7 +473,7 @@
           },
           "border-active": {
             "$type": "color",
-            "$value": "{basis.color.accent-1.border-active}"
+            "$value": "{aii.kleuren.grijs.800}"
           },
           "color-default": {
             "$type": "color",
@@ -493,7 +493,7 @@
           },
           "color-document": {
             "$type": "color",
-            "$value": "{basis.color.accent-1.color-document}"
+            "$value": "{aii.kleuren.grijs.800}"
           }
         },
         "action-2": {
@@ -523,23 +523,23 @@
           },
           "border-default": {
             "$type": "color",
-            "$value": "{basis.color.accent-1.border-default}"
+            "$value": "{basis.color.action-1.color-default}"
           },
           "border-hover": {
             "$type": "color",
-            "$value": "{basis.color.accent-1.border-hover}"
+            "$value": "{basis.color.action-1.border-hover}"
           },
           "border-active": {
             "$type": "color",
-            "$value": "{basis.color.accent-1.border-active}"
+            "$value": "{basis.color.action-1.border-active}"
           },
           "color-default": {
             "$type": "color",
-            "$value": "{basis.color.accent-1.color-default}"
+            "$value": "{basis.color.action-1.color-default}"
           },
           "color-hover": {
             "$type": "color",
-            "$value": "{basis.color.accent-1.color-hover}"
+            "$value": "{basis.color.action-1.color-hover}"
           },
           "color-active": {
             "$type": "color",
@@ -551,7 +551,7 @@
           },
           "color-document": {
             "$type": "color",
-            "$value": "{basis.color.accent-1.color-document}"
+            "$value": "{basis.color.action-1.color-document}"
           }
         },
         "disabled": {
@@ -643,11 +643,11 @@
           },
           "border-hover": {
             "$type": "color",
-            "$value": "#4E7FB8"
+            "$value": "{aii.kleuren.grijs.800}"
           },
           "border-active": {
             "$type": "color",
-            "$value": "#3F74B2"
+            "$value": "{aii.kleuren.grijs.800}"
           },
           "color-default": {
             "$type": "color",
