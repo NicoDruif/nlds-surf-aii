@@ -855,7 +855,7 @@
           },
           "bg-default": {
             "$type": "color",
-            "$value": "#FFF1BB"
+            "$value": "{aii.kleuren.geel.700}"
           },
           "bg-hover": {
             "$type": "color",
@@ -899,7 +899,7 @@
           },
           "color-document": {
             "$type": "color",
-            "$value": "#201B0C"
+            "$value": "{aii.kleuren.grijs.800}"
           }
         },
         "selected": {
