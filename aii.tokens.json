@@ -55,6 +55,64 @@
             "$type": "color",
             "$value": "#FFFFFF"
           }
+        },
+        "groen": {
+          "100": {
+            "$type": "color",
+            "$value": "#CCEEE6",
+            "$description": "Green-light"
+          },
+          "700": {
+            "$type": "color",
+            "$value": "#00AF81",
+            "$description": "Green"
+          },
+          "800": {
+            "$type": "color",
+            "$value": "#00A277",
+            "$description": "Green-dark"
+          }
+        },
+        "blauw": {
+          "100": {
+            "$type": "color",
+            "$value": "#D6E2FD",
+            "$description": "Blue-light"
+          },
+          "700": {
+            "$type": "color",
+            "$value": "#3D68EC",
+            "$description": "Blue"
+          },
+          "800": {
+            "$type": "color",
+            "$value": "#2252E4",
+            "$description": "Blue-dark"
+          }
+        },
+        "oranje": {
+          "100": {
+            "$type": "color",
+            "$value": "#FFE4D8",
+            "$description": "Orange-light"
+          },
+          "700": {
+            "$type": "color",
+            "$value": "#DD784B",
+            "$description": "Orange"
+          }
+        },
+        "roze": {
+          "100": {
+            "$type": "color",
+            "$value": "#FAEAEA",
+            "$description": "Pink-light"
+          },
+          "700": {
+            "$type": "color",
+            "$value": "#F4D9DC",
+            "$description": "Pink"
+          }
         }
       }
     }
