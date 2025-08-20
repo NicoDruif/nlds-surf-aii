@@ -209,7 +209,7 @@
         "default": {
           "bg-document": {
             "$type": "color",
-            "$value": "#FCFCFC"
+            "$value": "{aii.kleuren.grijs.wit}"
           },
           "bg-subtle": {
             "$type": "color",
@@ -261,7 +261,7 @@
           },
           "color-document": {
             "$type": "color",
-            "$value": "#1B1B1B"
+            "$value": "{aii.kleuren.grijs.800}"
           }
         },
         "accent-1": {
@@ -485,7 +485,7 @@
           },
           "color-active": {
             "$type": "color",
-            "$value": "{basis.color.accent-1.color-active}"
+            "$value": "{aii.kleuren.grijs.800}"
           },
           "color-subtle": {
             "$type": "color",
@@ -543,7 +543,7 @@
           },
           "color-active": {
             "$type": "color",
-            "$value": "{basis.color.accent-1.color-active}"
+            "$value": "{basis.color.action-1.color-active}"
           },
           "color-subtle": {
             "$type": "color",
@@ -2472,20 +2472,20 @@
       "focus": {
         "background-color": {
           "$type": "color",
-          "$value": "#ffdd00"
+          "$value": "{aii.kleuren.geel.700}"
         },
         "color": {
           "$type": "color",
-          "$value": "#0b0c0c"
+          "$value": "{aii.kleuren.grijs.800}"
         },
         "outline-color": {
           "$type": "color",
-          "$value": "#ffffff"
+          "$value": "{aii.kleuren.grijs.wit}"
         },
         "inverse": {
           "outline-color": {
             "$type": "color",
-            "$value": "#0b0c0c"
+            "$value": "{aii.kleuren.grijs.800}"
           }
         },
         "outline-offset": {
