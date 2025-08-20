@@ -13,6 +13,48 @@
             "$value": "#F4D74B",
             "$description": "Yellow"
           }
+        },
+        "grijs": {
+          "100": {
+            "$type": "color",
+            "$value": "#F9F9F9"
+          },
+          "200": {
+            "$type": "color",
+            "$value": "#F3F3F3"
+          },
+          "300": {
+            "$type": "color",
+            "$value": "#E1E1E1"
+          },
+          "400": {
+            "$type": "color",
+            "$value": "#C5C5C5"
+          },
+          "500": {
+            "$type": "color",
+            "$value": "#8E8E8E"
+          },
+          "600": {
+            "$type": "color",
+            "$value": "#5B5B5B"
+          },
+          "700": {
+            "$type": "color",
+            "$value": "#454545"
+          },
+          "800": {
+            "$type": "color",
+            "$value": "#2D2D2D"
+          },
+          "zwart": {
+            "$type": "color",
+            "$value": "#000000"
+          },
+          "wit": {
+            "$type": "color",
+            "$value": "#FFFFFF"
+          }
         }
       }
     }
@@ -551,7 +593,7 @@
           },
           "color-default": {
             "$type": "color",
-            "$value": "#1B59A4"
+            "$value": "{aii.kleuren.grijs.800}"
           },
           "color-hover": {
             "$type": "color",
@@ -567,7 +609,7 @@
           },
           "color-document": {
             "$type": "color",
-            "$value": "#001B3C"
+            "$value": "{aii.kleuren.grijs.800}"
           }
         },
         "negative": {
