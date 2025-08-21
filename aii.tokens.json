@@ -449,15 +449,15 @@
           },
           "bg-default": {
             "$type": "color",
-            "$value": "{aii.kleuren.geel.100}"
+            "$value": "{aii.kleuren.groen.100}"
           },
           "bg-hover": {
             "$type": "color",
-            "$value": "{aii.kleuren.geel.700}"
+            "$value": "{aii.kleuren.groen.700}"
           },
           "bg-active": {
             "$type": "color",
-            "$value": "{aii.kleuren.geel.700}"
+            "$value": "{aii.kleuren.groen.800}"
           },
           "border-subtle": {
             "$type": "color",
