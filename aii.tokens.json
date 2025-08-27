@@ -755,7 +755,7 @@
           },
           "border-default": {
             "$type": "color",
-            "$value": "#009B3A"
+            "$value": "{aii.kleuren.groen.800}"
           },
           "border-hover": {
             "$type": "color",
@@ -767,7 +767,7 @@
           },
           "color-default": {
             "$type": "color",
-            "$value": "#006827"
+            "$value": "{aii.kleuren.groen.800}"
           },
           "color-hover": {
             "$type": "color",
