@@ -623,7 +623,7 @@
           },
           "bg-default": {
             "$type": "color",
-            "$value": "{aii.kleuren.geel.100}"
+            "$value": "{aii.kleuren.blauw.100}"
           },
           "bg-hover": {
             "$type": "color",
@@ -639,7 +639,7 @@
           },
           "border-default": {
             "$type": "color",
-            "$value": "{aii.kleuren.geel.700}"
+            "$value": "{aii.kleuren.blauw.700}"
           },
           "border-hover": {
             "$type": "color",
