@@ -221,11 +221,11 @@
           },
           "bg-hover": {
             "$type": "color",
-            "$value": "#EBEBEB"
+            "$value": "{basis.color.action-1.bg-hover}"
           },
           "bg-active": {
             "$type": "color",
-            "$value": "#E5E5E5"
+            "$value": "{basis.color.action-1.bg-hover}"
           },
           "border-subtle": {
             "$type": "color",
