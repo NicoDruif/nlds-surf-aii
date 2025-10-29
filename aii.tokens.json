@@ -457,7 +457,7 @@
           },
           "bg-active": {
             "$type": "color",
-            "$value": "{aii.kleuren.groen.100}"
+            "$value": "{aii.kleuren.groen.700}"
           },
           "border-subtle": {
             "$type": "color",
